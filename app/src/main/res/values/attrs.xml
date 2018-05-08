@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 加载动画属性 -->
+    <declare-styleable name="loading_dialog">
+        <attr name="dialogTitleAppearance" format="reference" />
+        <attr name="dialogTitleText" format="reference|string" />
+        <attr name="dialogSpotColor" format="reference|color" />
+        <attr name="dialogSpotCount" format="integer" />
+    </declare-styleable>
+</resources>
